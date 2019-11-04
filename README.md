@@ -1,4 +1,22 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React-typescript-tailwind-template
+
+A React typescript with tailwind template, ready to use and fast deploy with script already created.
+
+## Instalation
+
+### Requirements
+
+Npm: to be able to run the instalation ,ect
+
+### Steps
+
+To install it you only need to do npm install
+
+## Where is tailwind?
+
+Tailwind is on [./src/tailwind]<br />
+Over there you can setup you config and everything, and you will have everything ready to go with the scripts <br />
+that generate everything!
 
 ## Available Scripts
 
@@ -7,9 +25,12 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.<br />
+Include a tailwind build to compile tailwind.<br />
+The page will reload if you make edits.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
+
 You will also see any lint errors in the console.
 
 ### `npm test`
@@ -20,7 +41,9 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 ### `npm run build`
 
 Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+It correctly bundles React in production mode and optimizes the build for the best performance.<br />
+
+Include a tailwind build to compile tailwind.<br />
 
 The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
@@ -42,3 +65,5 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+To learn Tailwind , check out the [Tailwind documentation](https://tailwindcss.com/)
