@@ -14,7 +14,7 @@ To install it you only need to do npm install
 
 ## Where is tailwind?
 
-Tailwind is on [./src/tailwind]<br />
+Tailwind is on `./src/tailwind`<br />
 Over there you can setup you config and everything, and you will have everything ready to go with the scripts <br />
 that generate everything!
 
