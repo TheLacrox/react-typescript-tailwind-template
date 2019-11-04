@@ -6,11 +6,11 @@ A React typescript with tailwind template, ready to use and fast deploy with scr
 
 ### Requirements
 
-Npm: to be able to run the instalation ,ect
+Npm: to be able to run the instalation, etc.
 
 ### Steps
 
-To install it you only need to do npm install
+To install it you only need to run npm install
 
 ## Where is tailwind?
 
